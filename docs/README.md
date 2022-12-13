@@ -8,7 +8,7 @@ For **Educational** Proposes Only - Not only for Children
 
     Learn by Educating Your self
 
-Animated Example: [The Condition of Illusion](https://odicforcesounds.github.io/The-Condition-of-illusion/)
+Animated Example: [The Condition of Illusion](https://play.odicforcesounds.com)
 
 "Each Positive Contribution that Benefit other Living Being may have Value. The Value
 is in the capacity of any person to solve any problem that may be solved by Social Values which care,"
