@@ -1,4 +1,3 @@
-![](../images/FullMap.jpg)
 
 For **Educational** Proposes Only - Not only for Children
 
@@ -9,6 +8,7 @@ For **Educational** Proposes Only - Not only for Children
 ### Intention:
 
     Learn by Educating Your self
+
 
 Animated Example: [The Condition of Illusion](https://play.odicforcesounds.com)
 
@@ -171,10 +171,10 @@ Writers are everywhere. Code Writters and Story Writters.
 
 You are Included in [this](https://art.odicforcesounds.com/pages/License/index.html) World Wide Target Eternal License!
 
-If you have any questions about this <b>challenge</b>, please read the Q&A [section](./plan/Questions.md)
-
-[read more about this challenge](./Tao/Tao.md)
-
 There is a very basic example of Pseudocode of this challenge [here](./plan/psudoCode.md)
+
+---
+
+![](../images/FullMap.jpg)
 
 by OdicforceSounds - 2016-2035 - All Rights Reserved
